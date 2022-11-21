@@ -1,1 +1,6 @@
-changes to new file on github
+What is the difference between "add", "commit", and "push"?
+
+They are different commands needed to update remote repository when local changes are made.
+- add -> add files with changes in the working directory of current local branch to the staging area for commits to be made
+- commit -> capture staged changes and records it as a new revision with a log for the current local branch
+- push -> upload the commited changes from local to respective remote branch on the remote repository
